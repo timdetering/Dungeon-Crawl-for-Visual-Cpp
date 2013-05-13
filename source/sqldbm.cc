@@ -9,8 +9,9 @@
 #include "stuff.h"
 #include "syscalls.h"
 #include <fcntl.h>
-#include <unistd.h>
+//#include <unistd.h>
 #include <cstring>
+#include <Windows.h>
 
 #ifdef USE_SQLITE_DBM
 
@@ -32,7 +33,7 @@ public:
             --nretries;
             // Give the annoying process locking the db a little time
             // to finish whatever it's up to before we retry.
-            usleep(1000);
+            Sleep(1);
         }
         else
             nretries = 0;

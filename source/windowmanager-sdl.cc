@@ -5,7 +5,7 @@
 
 #include "windowmanager-sdl.h"
 
-#include <SDL/SDL.h>
+#include <SDL.h>
 #include <SDL_image.h>
 
 #include "cio.h"

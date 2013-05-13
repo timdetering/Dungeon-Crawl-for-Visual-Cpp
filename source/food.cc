@@ -983,7 +983,7 @@ static constexpr int hunger_threshold[HS_ENGORGED + 1] =
 
 bool food_change(bool suppress_message)
 {
-    COMPILE_CHECK(HUNGER_STARVING == hunger_threshold[HS_STARVING]);
+    //COMPILE_CHECK(HUNGER_STARVING == hunger_threshold[HS_STARVING]);
 
     bool state_changed = false;
     bool less_hungry   = false;

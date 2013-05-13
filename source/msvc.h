@@ -16,9 +16,8 @@
 
 #define fileno _fileno
 #define snprintf _snprintf
-#define strcasecmp _strcasecmp
 #define strdup _strdup
-#define strcasecmp _strcasecmp
+#define strcasecmp _stricmp
 #define strncasecmp _strnicmp
 #define strnicmp _strnicmp
 #define ftruncate _chsize

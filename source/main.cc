@@ -400,7 +400,7 @@ static void _launch_game_loop()
              && !crawl_state.seen_hups);
 }
 
-static NORETURN void _launch_game()
+static /*NORETURN*/ void _launch_game()
 {
     const bool game_start = startup_step();
 

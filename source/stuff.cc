@@ -47,13 +47,10 @@
 #include "tiledef-gui.h"
 #endif
 
-#ifdef __ANDROID__
-#include <android/log.h>
 double log2(double n)
 {
     return log(n) / log(2); // :(
 }
-#endif
 
 // Crude, but functional.
 string make_time_string(time_t abs_time, bool terse)

@@ -75,7 +75,7 @@
 #undef max
 
 #ifdef USE_TILE_LOCAL
-#include <SDL/SDL_syswm.h>
+#include <SDL_syswm.h>
 #endif
 #endif
 

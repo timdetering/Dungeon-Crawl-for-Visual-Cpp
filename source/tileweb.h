@@ -14,7 +14,7 @@
 #include "map_knowledge.h"
 #include <map>
 #include <bitset>
-#include <sys/un.h>
+//#include <sys/un.h>
 
 class Menu;
 

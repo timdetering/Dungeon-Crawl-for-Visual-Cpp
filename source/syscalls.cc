@@ -4,7 +4,7 @@
 **/
 
 #include "AppHdr.h"
-#include <dirent.h>
+//#include <dirent.h>
 
 #ifdef TARGET_OS_WINDOWS
 # ifdef TARGET_COMPILER_VC

@@ -96,7 +96,7 @@
 #include "view.h"
 #include "viewgeom.h"
 
-#include <dirent.h>
+//#include <dirent.h>
 
 #ifdef __ANDROID__
 #include <android/log.h>

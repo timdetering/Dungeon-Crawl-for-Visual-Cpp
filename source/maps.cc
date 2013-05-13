@@ -11,11 +11,6 @@
 #include <cstdlib>
 #include <algorithm>
 #include <sys/types.h>
-#include <sys/param.h>
-
-#ifndef TARGET_COMPILER_VC
-#include <unistd.h>
-#endif
 
 #include "branch.h"
 #include "coordit.h"
@@ -38,17 +33,8 @@
 #include "tags.h"
 #include "terrain.h"
 
-#ifdef __ANDROID__
-  #include <sys/endian.h>
-#endif
-#ifndef BYTE_ORDER
-# error BYTE_ORDER is not defined
-#endif
-#if BYTE_ORDER == LITTLE_ENDIAN
-# define WORD_LEN sizeof(long)
-#else
-# define WORD_LEN -sizeof(long)
-#endif
+
+#define WORD_LEN sizeof(long)
 
 static map_section_type _write_vault(map_def &mdef,
                                      vault_placement &,
