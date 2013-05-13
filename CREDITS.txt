@@ -1,0 +1,82 @@
+﻿The Dungeon Crawl Stone Soup team (Peter Berger, Adam Borowski, Samuel Bronson,
+Jude Brown, James Bulgin, Robert Burnham, Chris Campbell, Matthew Cline, Paul
+Du Bois, Florian Diebold, Michael Gagno, Brendan Hickey, Pete Hurst, Eino
+Keskitalo, Vsevolod Kozlov, Janne Lahdenperä, Raphaël Langella, Nat Lanza,
+Jesse Luehrs, Steve Melenchuk, Neil Middleton, Neil Moore, Steven Noonan,
+Haran Pilpel, Aaron Pixton, David Ploog, Johanna Ploog, Stefan O'Rear,
+Charles Otto, David Lawrence Ramsey, Robert Vollmert, Enne Walker, Chris
+West, Samuel Wilson) would like to thank:
+
+* Linley Henzell, the author of Dungeon Crawl, for writing this great game.
+
+* Brent Ross, Dungeon Crawl 4.0/4.1 maintainer. Stone Soup owes a lot to his
+  ideas and code in Crawl 4.1.
+
+* Other members of the 4.0 Crawl development team: Michal Valvoda, Guus Sliepen,
+  Brian Robinson, Mark Mackey, Gordon Lipford, Daniel Ligon, Jesse Jones, Josh
+  Fishman, Don Brodale.
+
+* Darshan Shaligram and Erik Piper, for starting the Stone Soup project, and
+  rekindling interest in Crawl development.
+
+* Marc H. Thoben, for setting up and maintaining our current Mantis tracker,
+  Wiki, development blog and Windows trunk builds, as well as providing public
+  telnet access to development builds, all on crawl.develz.org.
+
+* Rachel Elizabeth Dillon, for all the work done in running the public telnet
+  server crawl.akrasiac.org, its associated August tourney, and other great
+  contributions.
+
+* The members of various usability testing teams from the department of
+  Information Processing Science in Oulu University: Satu Alanko, Sampo Jumisko,
+  Topi Leinonen, Tiina Kallinen, Aslak Karsi, Teemu Kaukoranta, Miikka Kuutila,
+  Sami Mylly, Joonas Nissinen, Perttu Piirainen, Pekka Reijonen, Jouni Rissanen,
+  Juulia Ruha, Tuomas Ristioja, Arto Saukko, Janne Seppänen, Henri Sorsa and
+  Sebastian Turpeinen. Additional thanks to Mikko Rajanen for providing the
+  opportunity for usability testing during various courses.
+
+We'd also like to thank members of the Dungeon Crawl community who have
+contributed to Dungeon Crawl Stone Soup:
+
+Mike Adams                     R. Dan Henry                 Malwyn P
+Warwick Allison                Chris Honey                  William Parker
+Juha Arpiainen                 Sylvia 'Onia' Hörnke         Pedro
+Arxale                         Benoit Hudson                Arlen Phillips
+John 'Poor Yurik' Attea        Iainuki                      Lemuel Pitkin
+Roy Axenov                     Ilyak                        Derek Ray
+Steve 'nfogravity' Balady      Matthew Ince                 Terence Reeves
+Max Bane                       Mitsuhiro Itakura            Remsleep
+Bill Beher                     Mikko Juola                  Ryan Riegel
+Alexander Beisig               Dominic 'dk' Kexel           RjY
+Stu Black                      Jarmo Kielosto               Will Rogers
+Terje Bø                       Kornel Kisielewicz           David Rose
+Erik Inge Bolsø                Vesa Kivimäki                Risto Saarelma
+Peter Borgmann                 Daniel Klein                 Sebastian Salman
+Daniel Mark Brownrigg          Jon Knapp                    Brett Scarborough
+Andre Bubel                    Ilkka Koskela                Roman Sêk
+Trent W. Buck                  Vambola Kotkas               ShadyAmish
+Joe Buzzelli                   Ryan Kusnery                 Robert Shimmin
+Policarpo Caballero            Jukka Kuusisto               Sigurd
+Henry Cipolla                  Pekka Lampila                Edgar Simo
+Aaron Curtis                   Lantier                      Alex Smith
+Simon Curtis                   Maciej Lapinski              Solf
+Denzi                          Jordan Lewis                 Michael Spang
+Lothar Dierkes                 Icy Lich                     Jan 'heftig' Steffens
+Mike Drinen                    Sami Liedes                  Johan Strandell
+Kieron Dunbar                  Markus Maier                 Ben Striegel
+Micha Elsner                   Arien Malec                  Derrick Sund
+Carl-Oscar Erneholm            Paul Maloney                 Pavel 'Curio' Svinarchuk
+Christopher Evenstar           Wille Mäntylä                Matthew Tadd
+Brett Foster                   John McCartney               William Tanksley, Jr.
+Chris Galardi                  James 'Eronarn' Meickle      Jared 'Twinge' Tinney
+Ben Goetter                    Andrew Minton                Matt Titus
+Rob Grant                      Shawn M Moore                Jason Van
+John Greenberg                 Eva Myers                    Steven Wheeler
+GreyKnight                     nooodl                       Thomas Willem
+Joshua Gross                   Erkki Nurmi                  Evan Williams
+Brian Haase                    Mattias Nyberg               Jeremey Wilson
+Shayne Halvorson               nyra                         Yelve Yakut
+Sophie Hamilton                Dylan O'Donnell              Zannick
+Chris Hamons                   Chris Oelmueller             Zooko
+Anders Heggestøyl              Yuuma Oohara
+
