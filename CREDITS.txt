@@ -7,6 +7,17 @@ Haran Pilpel, Aaron Pixton, David Ploog, Johanna Ploog, Stefan O'Rear,
 Charles Otto, David Lawrence Ramsey, Robert Vollmert, Enne Walker, Chris
 West, Samuel Wilson) would like to thank:
 
+ ______   _        _______             ______   _        _______          
+(  ___ \ ( \      (  ___  )|\     /|  (  ___ \ ( \      (  ___  )|\     /|
+| (   ) )| (      | (   ) || )   ( |  | (   ) )| (      | (   ) || )   ( |
+| (__/ / | |      | (___) || (___) |  | (__/ / | |      | (___) || (___) |
+|  __ (  | |      |  ___  ||  ___  |  |  __ (  | |      |  ___  ||  ___  |
+| (  \ \ | |      | (   ) || (   ) |  | (  \ \ | |      | (   ) || (   ) |
+| )___) )| (____/\| )   ( || )   ( |  | )___) )| (____/\| )   ( || )   ( |
+|/ \___/ (_______/|/     \||/     \|  |/ \___/ (_______/|/     \||/     \|
+                                                                          
+
+
 * Linley Henzell, the author of Dungeon Crawl, for writing this great game.
 
 * Brent Ross, Dungeon Crawl 4.0/4.1 maintainer. Stone Soup owes a lot to his
