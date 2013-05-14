@@ -3698,14 +3698,7 @@ enum tag_pref
     TAGPREF_MAX,
 };
 
-
-    // 3 mutually exclusive flags for mimics.
-#define TILE_FLAG_MIMIC_INEPT 0x2000000000ULL
-#define TILE_FLAG_MIMIC 0x4000000000ULL
-#define TILE_FLAG_MIMIC_RAVEN 0x6000000000ULL
-#define TILE_FLAG_MIMIC_MASK 0x6000000000ULL
-
-enum tile_flags
+enum tile_flags : unsigned long long
 {
     //// Foreground flags
 
@@ -3756,8 +3749,11 @@ enum tile_flags
     TILE_FLAG_DEMON_2    = 0x800000000ULL,
     TILE_FLAG_DEMON_1    = 0xE00000000ULL,
 
-
-
+    // 3 mutually exclusive flags for mimics.
+	TILE_FLAG_MIMIC_INEPT = 0x2000000000ULL,
+	TILE_FLAG_MIMIC = 0x4000000000ULL,
+	TILE_FLAG_MIMIC_RAVEN = 0x6000000000ULL,
+	TILE_FLAG_MIMIC_MASK = 0x6000000000ULL,
 
     //// Background flags
 
